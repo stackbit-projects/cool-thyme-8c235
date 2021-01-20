@@ -2,5 +2,12 @@
     "description": "Medium inspired blogging theme for Stackbit",
     "layout_style": "grid",
     "palette": "green",
-    "title": "Stackbit Ampersand Theme"
+    "title": "Stackbit Ampersand Theme",
+    "header": {
+        "title": "lorem-ipsum",
+        "logo_img_alt": "lorem-ipsum",
+        "has_nav": true,
+        "nav_links": [],
+        "type": "header"
+    }
 }
