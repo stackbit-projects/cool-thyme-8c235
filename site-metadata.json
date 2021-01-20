@@ -2,34 +2,6 @@
     "description": "Medium inspired blogging theme for Stackbit",
     "layout_style": "grid",
     "palette": "green",
-    "header": {
-        "title": "Ampersand",
-        "logo_img": "images/logo.svg",
-        "logo_img_alt": "Ampersand Logo",
-        "has_nav": true,
-        "nav_links": [
-            {
-                "label": "Home",
-                "url": "/",
-                "style": "link"
-            },
-            {
-                "label": "About",
-                "url": "/about",
-                "style": "link"
-            },
-            {
-                "label": "Style Guide",
-                "url": "/style-guide",
-                "style": "link"
-            },
-            {
-                "label": "Contact",
-                "url": "/contact",
-                "style": "link"
-            }
-        ]
-    },
     "footer": {
         "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=ampersand&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>.",
         "has_social": true,
